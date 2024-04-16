@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AAGA,KACE,iBCJY","file":"../main.css","sourcesContent":["\r\n@use 'variaveis';\r\n\r\nbody{\r\n  background-color: variaveis.$primaryColor;\r\n}\r\n\r\n","$primaryColor:rgb(0, 153, 255);"]}
